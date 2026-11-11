@@ -37,7 +37,7 @@ window.Ducknest_CONFIG = Object.assign({
   /* ---- how often pages check for news, in seconds. JSONBin's free plan only allows
          a small number of requests, so keep these long. People also get fresh data
          every time they open a page, tap a button, or come back to the tab. ---- */
-  siteUrl: 'https://Ducknest.github.io/agro-company.global/',   // base of every customer's referral link
+  siteUrl: 'https://ducknest-company.github.io/.com/',   // base of every customer's referral link
   pollAdmin: 300,             // admin page checks for news every 5 minutes (tap the green pill for an instant refresh)
   pollCustomer: 120,
   idleAdminSeconds: 48,       // admin is signed out after this many seconds without touching the page
